@@ -1,0 +1,29 @@
+{
+  "name": "24",
+  "version": "1.0.0",
+  "description": "A Discord bot for playing 24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyyu/24.git"
+  },
+  "keywords": [
+    "24",
+    "discord",
+    "bot"
+  ],
+  "author": "gyyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyyu/24/issues"
+  },
+  "homepage": "https://github.com/gyyu/24#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "mathjs": "^7.2.0"
+  }
+}
